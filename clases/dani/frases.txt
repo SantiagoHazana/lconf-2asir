@@ -1,0 +1,6 @@
+Hola
+Mundo
+Estoy
+Programando
+En Python
+Perra

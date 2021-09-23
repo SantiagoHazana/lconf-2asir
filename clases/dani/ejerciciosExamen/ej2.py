@@ -1,0 +1,8 @@
+lista = list()
+lista.append(1.34)
+lista.append(2.67)
+lista.append(3.67)
+lista.append(4.67)
+lista.append(5.67)
+lista.append(6.67)
+print(lista[3:])
