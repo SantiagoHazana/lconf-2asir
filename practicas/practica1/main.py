@@ -1,0 +1,10 @@
+print("------Ejercicio 1------")
+import ej1
+print("\n------Ejercicio 2------")
+import ej2
+print("\n------Ejercicio 3------")
+import ej3
+print("\n------Ejercicio 4------")
+import ej4
+print("\n------Ejercicio 5------")
+import ej5
