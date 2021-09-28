@@ -5,3 +5,6 @@ import random
 
 print(random.randint(0, 1))
 print("Hello world")
+print("Hello world")
+print("Hello world")
+print("Hello world")
